@@ -9,9 +9,9 @@ body {
 h1{
     text-align: center;
 }
-em strong {
+p{
+  text-align:center;
+}
+ em strong {
     color:blue;
 }
-
-
-
